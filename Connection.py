@@ -1,6 +1,6 @@
-//Install dependencies
-//!pip install streamlit
-//!pip install qdrant-client
+#Install dependencies
+#!pip install streamlit
+#!pip install qdrant-client
 
 import streamlit as st
 from streamlit.connections import ExperimentalBaseConnection
